@@ -182,6 +182,20 @@
       "properties": {
         "Date": "2022-11-27 09:57UTC"
       }
-    }
+    },
+    
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.558768,
+          21.804505   
+        ]
+      },
+      "properties": {
+        "Date": "2022-11-27 14:58UTC"
+      }
+    } 
   ]
 }
