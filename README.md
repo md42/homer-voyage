@@ -1,9 +1,9 @@
 # homer-voyage :sailboat:
-Actual Time of Departure (ATA): Nov 19, 19:00 UTC El Chorrillo, Spain. 
+Actual Time of Departure (ATA): Nov 19, 19:00 UTC El Chorrillo, Spain.  
 Actual Time of Arrival (ATA): ?  
 
 ## Raw data
-[data as GeoJSON](https://raw.githubusercontent.com/md42/homer-voyage/main/positions.json). 
+[data as GeoJSON](https://raw.githubusercontent.com/md42/homer-voyage/main/positions.json)  
 [On TomTom map when opening file via Desktop](positions.json)
 
 ## Positions on OSM 
