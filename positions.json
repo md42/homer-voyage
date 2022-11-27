@@ -129,6 +129,16 @@
   },
   "properties": {
   "Date":"2022-11-27 03:03UTC"
+  },
+   
+ {
+  "type": "Feature",
+  "geometry": {
+     "type": "Point",
+     "coordinates":  [ -20.852757,21.822127 ]
+  },
+  "properties": {
+  "Date":"2022-11-27 09:57UTC"
   }
 }
 ]
