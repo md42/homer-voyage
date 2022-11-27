@@ -1,5 +1,6 @@
 # homer-voyage :sailboat:
 Actual Time of Departure (ATA): Nov 19, 19:00 UTC El Chorrillo, Spain
+
 Actual Time of Arrival (ATA): ?
 
 ## Raw data
