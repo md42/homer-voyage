@@ -129,8 +129,9 @@
   },
   "properties": {
   "Date":"2022-11-27 03:03UTC"
-  },
- {
+  }
+},
+{
   "type": "Feature",
   "geometry": {
      "type": "Point",
@@ -139,5 +140,6 @@
   "properties": {
   "Date":"2022-11-27 09:57UTC"
   }
+}
 ]
 }
